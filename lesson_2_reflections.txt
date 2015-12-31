@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 *git status - check which files have been changed since last commit
 *.git folder is created
 * we do this to be able to track changes from that point on
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+* it's a temporary holding area for file changes to be commited
+* it makes it possible to review what you are about to commit to reduce user error
