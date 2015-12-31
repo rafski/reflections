@@ -1,0 +1,30 @@
+Git course reflections 
+why diff
+* the differnces were highlighted easily
+* time was saved by not doing things manually
+* at a glance i can see what was changed
+
+version control a better programmer
+* ability to review changes
+* learn from own mistakes
+* improve effciency
+* be able to backtrack thought process
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+* pro granular control/ logical choice of times/ ability to describe units
+* con possibility of human error (too many or too few)
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+* due to the interconnected nature of the material
+
+How can you use the commands git log and git diff to view the history of files?
+* git log to see all changes made with their commit messages
+* git diff to compare and see what was changed if something went amiss
+
+How might using version control make you more confident to make changes that could break something?
+* any change can be tracked down and undone if necessary
+
+Now that you have your workspace set up, what do you want to try using Git for?
+* text files
+* android and java learing
+* android apps

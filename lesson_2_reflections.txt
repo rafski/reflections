@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it? 
+*git init - initialize new repository
+*git status - check which files have been changed since last commit
+*.git folder is created
+* we do this to be able to track changes from that point on
